@@ -101,4 +101,5 @@ Support strategic business decisions
 Improve operational efficiency
 
 ## Dashboard Preview
-<img width="575" height="564" alt="Screenshot 2026-01-27 061819" src="https://github.com/user-attachments/assets/cdf0dd32-dcca-4bf4-ad9d-ba3ed5467e1f" />
+[Sales Dashboard (1).pdf](https://github.com/user-attachments/files/26039364/Sales.Dashboard.1.pdf)
+
